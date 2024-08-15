@@ -62,13 +62,7 @@ Wireless power transfer is a revolutionary method to charge electric vehicles wi
     - Review the simulation outputs, such as power transfer efficiency, voltage, and current waveforms.
     - Adjust the model parameters and rerun the simulation to optimize performance.
 
-## Screenshots
 
-<!-- Add screenshots of your simulation and results here -->
-
-![Simulink Model](path/to/simulink_model_screenshot.png)
-
-![Simulation Results](path/to/simulation_results_screenshot.png)
 
 ## Project Structure
 
@@ -97,4 +91,4 @@ If you have any questions or suggestions, feel free to contact me.
 
 - **Syed Issam Bukhari**
 - [GitHub Profile](https://github.com/syedissambukhari)
-- Email: [syedissambukhari@example.com](mailto:syedissambukhari@example.com)
+- Email: [syedissam33444@gmail.com](mailto:syedissam33444@gmail.com)
